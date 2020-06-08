@@ -1,5 +1,8 @@
 package nick.white;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public class _217_Contains_Duplicate {
 
     public static void main(String[] args) {
@@ -13,6 +16,15 @@ public class _217_Contains_Duplicate {
     }
 
     private static boolean compute(int[] input) {
-        
+        Set<Integer> set = new HashSet<>();
+        for(int i = 0; i<input.length; i++) {
+            int element = input[i];
+            if(set.contains(element)) {
+                return true;
+            }
+            set.add(element);
+        }
+        return false;
     }
 }
+

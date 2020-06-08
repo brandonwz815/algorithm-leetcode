@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcab5794-96b5-4f79-b087-993f4eb7a5c2" name="Default Changelist" comment="" />
+    <list default="true" id="bcab5794-96b5-4f79-b087-993f4eb7a5c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/_206_Reversed_Linked_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_a/TemplateClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_a/TemplateClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/_118_PascalsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/_118_PascalsTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/_217_Contains_Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/_217_Contains_Duplicate.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,7 +34,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1VysyC7Gf7uvZguXwLN930SokE2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -32,6 +45,9 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nick.white" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\tiger\git\algorithm-leetcode\src\main\java" />
     </key>
@@ -48,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._200_NumberOfIslands">
+  <component name="RunManager" selected="Application._118_PascalsTriangle">
     <configuration name="ArrayMaxConsecutiveSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nick.white.ArrayMaxConsecutiveSum2" />
       <module name="algorithm-leetcode" />
@@ -62,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_12_IntegerToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems.medium._12_IntegerToRoman" />
+    <configuration name="_118_PascalsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white._118_PascalsTriangle" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problems.medium.*" />
+          <option name="PATTERN" value="nick.white.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_6_ZigZagConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems.medium._6_ZigZagConversion" />
+    <configuration name="_217_Contains_Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white._217_Contains_Duplicate" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problems.medium.*" />
+          <option name="PATTERN" value="nick.white.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,19 +154,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application._6_ZigZagConversion" />
-      <item itemvalue="Application._12_IntegerToRoman" />
       <item itemvalue="Application._14_LongestCommonPrefix" />
       <item itemvalue="Application.ArrayMaxConsecutiveSum2" />
       <item itemvalue="Application._200_NumberOfIslands" />
+      <item itemvalue="Application._217_Contains_Duplicate" />
+      <item itemvalue="Application._118_PascalsTriangle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._118_PascalsTriangle" />
+        <item itemvalue="Application._217_Contains_Duplicate" />
         <item itemvalue="Application._200_NumberOfIslands" />
         <item itemvalue="Application.ArrayMaxConsecutiveSum2" />
         <item itemvalue="Application._14_LongestCommonPrefix" />
-        <item itemvalue="Application._12_IntegerToRoman" />
-        <item itemvalue="Application._6_ZigZagConversion" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +183,27 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/_118_PascalsTriangle.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="s" />

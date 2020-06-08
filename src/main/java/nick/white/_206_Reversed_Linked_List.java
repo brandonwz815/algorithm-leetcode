@@ -1,6 +1,6 @@
-package _a;
+package nick.white;
 
-public class TemplateClass {
+public class _206_Reversed_Linked_List {
 
     public static void main(String[] args) {
         int input = 5;
