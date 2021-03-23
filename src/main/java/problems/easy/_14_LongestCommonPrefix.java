@@ -15,12 +15,12 @@ public class _14_LongestCommonPrefix {
 
         int pos = 0;
         boolean stop = false;
-        while(!stop) {
+        while (!stop) {
 
             char tmp = '\u0000';
             boolean diff = false;
-            for(int i = 0; i < arr.length; i++) {
-                if(pos < arr[i].length()) {
+            for (int i = 0; i < arr.length; i++) {
+                if (pos < arr[i].length()) {
                     char a = arr[i].charAt(pos);
                     if (tmp == '\u0000') {
                         tmp = a;
@@ -34,7 +34,7 @@ public class _14_LongestCommonPrefix {
                     stop = true;
                 }
             }
-            if(!diff && !stop) {
+            if (!diff && !stop) {
                 res.append(tmp);
             }
             pos++;

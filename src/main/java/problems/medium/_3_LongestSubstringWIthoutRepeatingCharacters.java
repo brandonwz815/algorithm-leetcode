@@ -13,7 +13,7 @@ public class _3_LongestSubstringWIthoutRepeatingCharacters {
         Arrays.fill(index, -1);
         int ans = 0;
         int i = 0;
-        for(int j = 0; j < s.length(); j++) {
+        for (int j = 0; j < s.length(); j++) {
             i = Math.max(index[s.charAt(j)], i);
             ans = Math.max(ans, j - i + 1);
             index[s.charAt(j)] = j;

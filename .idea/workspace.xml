@@ -1,16 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="bcab5794-96b5-4f79-b087-993f4eb7a5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/_206_Reversed_Linked_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_a/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/backToBackSwe/MinimumWindowSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/_1004_MaxConsecutiveOnesIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/_226_InvertBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/_424_LongestRepeatingCharacterReplacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/_525_ContiguousArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/_a/TemplateClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_a/TemplateClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/amazon/nick/white/ArrayMaxConsecutiveSum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/amazon/nick/white/ArrayMaxConsecutiveSum2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/amazon/nick/white/RotateImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/amazon/nick/white/RotateImage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/_118_PascalsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/_118_PascalsTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/_206_Reversed_Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/_206_Reversed_Linked_List.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/_217_Contains_Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/_217_Contains_Duplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problems/easy/_118_PascalsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problems/easy/_118_PascalsTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problems/easy/_14_LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problems/easy/_14_LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problems/easy/_1_TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problems/easy/_1_TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problems/medium/_12_IntegerToRoman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problems/medium/_12_IntegerToRoman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problems/medium/_2_AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problems/medium/_2_AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problems/medium/_3_LongestSubstringWIthoutRepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problems/medium/_3_LongestSubstringWIthoutRepeatingCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problems/medium/_6_ZigZagConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problems/medium/_6_ZigZagConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/algorithm/algorithm_leetcode/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/algorithm/algorithm_leetcode/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/amazon/nick/white/ArrayMaxConsecutiveSum2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/amazon/nick/white/ArrayMaxConsecutiveSum2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/amazon/nick/white/FirstNoneRepeatingCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/amazon/nick/white/FirstNoneRepeatingCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/amazon/nick/white/RotateImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/amazon/nick/white/RotateImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nick/white/_200_NumberOfIslands.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nick/white/_200_NumberOfIslands.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/problems/easy/_118_PascalsTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/problems/easy/_118_PascalsTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/problems/easy/_13_RomanToInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/problems/easy/_13_RomanToInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/problems/easy/_14_LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/problems/easy/_14_LongestCommonPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/problems/easy/_1_TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/problems/easy/_1_TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/problems/medium/_12_IntegerToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/problems/medium/_12_IntegerToRoman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/problems/medium/_2_AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/problems/medium/_2_AddTwoNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/problems/medium/_3_LongestSubstringWIthoutRepeatingCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/problems/medium/_3_LongestSubstringWIthoutRepeatingCharacters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/problems/medium/_5_LongestPalindromicSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/problems/medium/_5_LongestPalindromicSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/problems/medium/_6_ZigZagConversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/problems/medium/_6_ZigZagConversion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/problems/medium/_6_ZigZagConversion_LC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/problems/medium/_6_ZigZagConversion_LC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/algorithm/algorithm_leetcode/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/algorithm/algorithm_leetcode/AppTest.class" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,15 +72,23 @@
     </option>
   </component>
   <component name="ProjectId" id="1VysyC7Gf7uvZguXwLN930SokE2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -52,21 +98,23 @@
       <recent name="C:\Users\tiger\git\algorithm-leetcode\src\main\java" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application._118_PascalsTriangle">
-    <configuration name="ArrayMaxConsecutiveSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.ArrayMaxConsecutiveSum2" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_a.Test" />
+      <module name="algorithm-leetcode" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintStringTableStatistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_a.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1004_MaxConsecutiveOnesIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white._1004_MaxConsecutiveOnesIII" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -91,21 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_14_LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems.easy._14_LongestCommonPrefix" />
-      <module name="algorithm-leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problems.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_200_NumberOfIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white._200_NumberOfIslands" />
+    <configuration name="_424_LongestRepeatingCharacterReplacement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white._424_LongestRepeatingCharacterReplacement" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +152,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_217_Contains_Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white._217_Contains_Duplicate" />
+    <configuration name="_525_ContiguousArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white._525_ContiguousArray" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -154,22 +189,23 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application._14_LongestCommonPrefix" />
-      <item itemvalue="Application.ArrayMaxConsecutiveSum2" />
-      <item itemvalue="Application._200_NumberOfIslands" />
-      <item itemvalue="Application._217_Contains_Duplicate" />
       <item itemvalue="Application._118_PascalsTriangle" />
+      <item itemvalue="Application._1004_MaxConsecutiveOnesIII" />
+      <item itemvalue="Application._424_LongestRepeatingCharacterReplacement" />
+      <item itemvalue="Application._525_ContiguousArray" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application._525_ContiguousArray" />
+        <item itemvalue="Application._424_LongestRepeatingCharacterReplacement" />
+        <item itemvalue="Application._1004_MaxConsecutiveOnesIII" />
         <item itemvalue="Application._118_PascalsTriangle" />
-        <item itemvalue="Application._217_Contains_Duplicate" />
-        <item itemvalue="Application._200_NumberOfIslands" />
-        <item itemvalue="Application.ArrayMaxConsecutiveSum2" />
-        <item itemvalue="Application._14_LongestCommonPrefix" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -193,6 +229,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

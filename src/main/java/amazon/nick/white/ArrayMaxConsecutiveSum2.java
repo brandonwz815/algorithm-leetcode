@@ -11,7 +11,7 @@ public class ArrayMaxConsecutiveSum2 {
         int max_sum = inputArray[0];
         int current_sum = max_sum;
 
-        for(int i=0; i<inputArray.length; i++) {
+        for (int i = 0; i < inputArray.length; i++) {
             current_sum = Math.max(inputArray[i] + current_sum, inputArray[i]);
             max_sum = Math.max(current_sum, max_sum);
             System.out.println(current_sum + " " + max_sum);

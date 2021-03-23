@@ -8,7 +8,7 @@ public class _206_Reversed_Linked_List {
     }
 
     private static void compute(int input) {
-        for(int i = 0; i<input; i++) {
+        for (int i = 0; i < input; i++) {
 
         }
     }
