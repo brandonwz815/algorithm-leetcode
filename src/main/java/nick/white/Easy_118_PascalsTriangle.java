@@ -1,6 +1,6 @@
 package nick.white;
 
-public class _118_PascalsTriangle {
+public class Easy_118_PascalsTriangle {
 
     public static void main(String[] args) {
         int input = 5;

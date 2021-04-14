@@ -2,7 +2,7 @@ package nick.white;
 
 import java.util.LinkedList;
 
-public class _226_InvertBinaryTree {
+public class Easy_226_InvertBinaryTree {
 
     public static void main(String[] args) {
 

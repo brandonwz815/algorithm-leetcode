@@ -1,9 +1,9 @@
 package nick.white;
 
-public class _7_ReverseInteger {
+public class Easy_7_ReverseInteger {
 
     public static void main(String[] args) {
-        int input = 123;
+        int input = -1230;
 
         System.out.println(reverse(input));
 
@@ -21,6 +21,12 @@ public class _7_ReverseInteger {
             pop = x % 10;
             rev = rev * 10 + pop;
             x = x / 10;  // x = (x-pop)/10
+        }
+        if (rev > Integer.MAX_VALUE ) {
+            return 0;
+        }
+        if (rev < Integer.MIN_VALUE ) {
+            return 0;
         }
         return isNegative ? -rev : rev;
         //return 0;

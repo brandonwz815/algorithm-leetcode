@@ -3,7 +3,7 @@ package nick.white;
 import java.util.HashSet;
 import java.util.Set;
 
-public class _217_Contains_Duplicate {
+public class Easy_217_Contains_Duplicate {
 
     public static void main(String[] args) {
         int[] input1 = new int[]{1, 2, 3, 3};

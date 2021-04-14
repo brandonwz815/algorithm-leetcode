@@ -1,6 +1,6 @@
 package nick.white;
 
-public class _200_NumberOfIslands {
+public class Medium_200_NumberOfIslands {
 
     public static void main(String[] args) {
 

@@ -4,7 +4,7 @@ package nick.white;
  * Question URL: https://leetcode.com/problems/longest-repeating-character-replacement/
  * Answer: https://www.youtube.com/watch?v=00FmUN1pkGE&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=119 (looks incorrect)
  */
-public class _424_LongestRepeatingCharacterReplacement {
+public class Medium_424_LongestRepeatingCharacterReplacement {
 
     public static void main(String[] args) {
 //        String input = "ABAB";

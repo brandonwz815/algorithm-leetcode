@@ -1,6 +1,6 @@
 package nick.white;
 
-public class _206_Reversed_Linked_List {
+public class Easy_206_Reversed_Linked_List {
 
     public static void main(String[] args) {
         int input = 5;

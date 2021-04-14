@@ -1,6 +1,6 @@
 package nick.white;
 
-public class _1004_MaxConsecutiveOnesIII {
+public class Medium_1004_MaxConsecutiveOnesIII {
 
     public static void main(String[] args) {
         int[] input = {0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0};

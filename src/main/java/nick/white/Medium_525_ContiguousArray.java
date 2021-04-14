@@ -3,7 +3,7 @@ package nick.white;
 import java.util.HashMap;
 import java.util.Map;
 
-public class _525_ContiguousArray {
+public class Medium_525_ContiguousArray {
 
     public static void main(String[] args) {
         int[] input = {0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0};
