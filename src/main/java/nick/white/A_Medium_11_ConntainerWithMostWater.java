@@ -1,6 +1,6 @@
 package nick.white;
 
-public class Medium_A_11_ConntainerWithMostWater {
+public class A_Medium_11_ConntainerWithMostWater {
 
     public static void main(String[] args) {
 

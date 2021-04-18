@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcab5794-96b5-4f79-b087-993f4eb7a5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/_7_ReverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A1_Medium_34_814_BinaryTreePruning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_513_37_FindBottomLeftTreeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_846_35_HandOfStraights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_16_3SumClosest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_24_36_SwapNodesInPairs__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/_226_InvertBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/_226_InvertBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/easy/_1_TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/problems/easy/_1_TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/medium/_12_IntegerToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/problems/medium/_12_IntegerToRoman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/medium/_2_AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/problems/medium/_2_AddTwoNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/medium/_6_ZigZagConversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/problems/medium/_6_ZigZagConversion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/algorithm/algorithm_leetcode/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/algorithm/algorithm_leetcode/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_977_SquaresOfASortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_977_SquaresOfASortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_11_ConntainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_11_ConntainerWithMostWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_16_3SumClosest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/ListNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,21 +59,33 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="nick.white" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\tiger\git\algorithm-leetcode\src\main\java" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nick.white" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application._226_InvertBinaryTree">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_a.Test" />
+  <component name="RunManager" selected="Application.A_Medium_16_3SumClosest">
+    <configuration name="Medium_16_3SumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.Medium_16_3SumClosest" />
       <module name="algorithm-leetcode" />
-      <option name="VM_PARAMETERS" value="-XX:+PrintStringTableStatistics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_a.*" />
+          <option name="PATTERN" value="nick.white.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Medium_24_36_SwapNodesInPairs__" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.Medium_24_36_SwapNodesInPairs__" />
+      <module name="algorithm-leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nick.white.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,19 +108,6 @@
     </configuration>
     <configuration name="_226_InvertBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nick.white._226_InvertBinaryTree" />
-      <module name="algorithm-leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nick.white.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_525_ContiguousArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white._525_ContiguousArray" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -162,19 +163,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application._525_ContiguousArray" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application._7_ReverseInteger" />
       <item itemvalue="Application._118_PascalsTriangle" />
       <item itemvalue="Application._226_InvertBinaryTree" />
+      <item itemvalue="Application.A_Medium_16_3SumClosest" />
+      <item itemvalue="Application.Medium_24_36_SwapNodesInPairs__" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A_Medium_16_3SumClosest" />
+        <item itemvalue="Application.Medium_24_36_SwapNodesInPairs__" />
         <item itemvalue="Application._226_InvertBinaryTree" />
         <item itemvalue="Application._7_ReverseInteger" />
         <item itemvalue="Application._118_PascalsTriangle" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application._525_ContiguousArray" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +217,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/nick/white/_7_ReverseInteger.java</url>
           <line>12</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Medium_16_3SumClosest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
