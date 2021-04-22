@@ -5,17 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcab5794-96b5-4f79-b087-993f4eb7a5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A1_Medium_34_814_BinaryTreePruning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_513_37_FindBottomLeftTreeValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_846_35_HandOfStraights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_16_3SumClosest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_24_36_SwapNodesInPairs__.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_938_39_RangeSumOfBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_979_41_DistributeCoinsInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_589_9_NaryTreePreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_590_7_NaryTreePostorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_965_40_UniValuedBinaryTree__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_11_30_ConntainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_513_37_FindBottomLeftTreeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_86_38_PartitionList__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_94_8_BinaryTreeInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_958_42_CheckCompletenessOfABinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_977_SquaresOfASortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_977_SquaresOfASortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_11_ConntainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_11_ConntainerWithMostWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_16_3SumClosest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_11_ConntainerWithMostWater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_513_37_FindBottomLeftTreeValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nick/white/_200_NumberOfIslands.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +62,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -66,9 +72,9 @@
       <recent name="nick.white" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A_Medium_16_3SumClosest">
-    <configuration name="Medium_16_3SumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.Medium_16_3SumClosest" />
+  <component name="RunManager" selected="Application.Medium_938_39_RangeSumOfBST__">
+    <configuration name="Easy_589_9_NaryTreePreorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.Easy_589_9_NaryTreePreorderTraversal" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_24_36_SwapNodesInPairs__" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.Medium_24_36_SwapNodesInPairs__" />
+    <configuration name="Medium_513_37_FindBottomLeftTreeValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.Medium_513_37_FindBottomLeftTreeValue" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_118_PascalsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white._118_PascalsTriangle" />
+    <configuration name="Medium_86_38_PartitionList__" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.Medium_86_38_PartitionList__" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_226_InvertBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white._226_InvertBinaryTree" />
+    <configuration name="Medium_86_38_PartitionList__" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.Medium_86_38_PartitionList__" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -119,12 +125,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_7_ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="nick.white._7_ReverseInteger" />
+    <configuration name="Medium_938_39_RangeSumOfBST__" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.Medium_938_39_RangeSumOfBST__" />
       <module name="algorithm-leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nick.white.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Medium_94_8_BinaryTreeInorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.Medium_94_8_BinaryTreeInorderTraversal" />
+      <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="nick.white.*" />
@@ -163,19 +179,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application._7_ReverseInteger" />
-      <item itemvalue="Application._118_PascalsTriangle" />
-      <item itemvalue="Application._226_InvertBinaryTree" />
-      <item itemvalue="Application.A_Medium_16_3SumClosest" />
-      <item itemvalue="Application.Medium_24_36_SwapNodesInPairs__" />
+      <item itemvalue="Application.Medium_86_38_PartitionList__" />
+      <item itemvalue="Application.Medium_94_8_BinaryTreeInorderTraversal" />
+      <item itemvalue="Application.Easy_589_9_NaryTreePreorderTraversal" />
+      <item itemvalue="Application.Medium_513_37_FindBottomLeftTreeValue" />
+      <item itemvalue="Application.Medium_938_39_RangeSumOfBST__" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A_Medium_16_3SumClosest" />
-        <item itemvalue="Application.Medium_24_36_SwapNodesInPairs__" />
-        <item itemvalue="Application._226_InvertBinaryTree" />
-        <item itemvalue="Application._7_ReverseInteger" />
-        <item itemvalue="Application._118_PascalsTriangle" />
+        <item itemvalue="Application.Medium_938_39_RangeSumOfBST__" />
+        <item itemvalue="Application.Medium_513_37_FindBottomLeftTreeValue" />
+        <item itemvalue="Application.Medium_94_8_BinaryTreeInorderTraversal" />
+        <item itemvalue="Application.Easy_589_9_NaryTreePreorderTraversal" />
+        <item itemvalue="Application.Medium_86_38_PartitionList__" />
       </list>
     </recent_temporary>
   </component>
@@ -222,6 +238,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/nick/white/Medium_16_3SumClosest.java</url>
           <line>14</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Medium_86_38_PartitionList</url>
+          <line>54</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Easy_590_7_NaryTreePostorderTraversal.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Medium_94_8_BinaryTreeInorderTraversal.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -13,7 +13,10 @@ public class Utils {
         root.left.right = new TreeNode(3);
         root.right.right = new TreeNode(9);
 
-        return root;
+        System.out.printf("Before: %s\n ", root);
+//        System.out.printf(" After: %s\n", );
+
+        return null;
     }
 
     public static ListNode newList() {
@@ -21,7 +24,7 @@ public class Utils {
         head.next = new ListNode(2);
         head.next.next = new ListNode(3);
         head.next.next.next = new ListNode(4);
-        return head;
+        return null;
     }
 
 }
