@@ -5,19 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcab5794-96b5-4f79-b087-993f4eb7a5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_114_44_FlattenBinaryTreeToLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_148_47_SortList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_54_52_SpiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/B_Easy_700_48_SearchInABinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_404_50_SumOfLeftLeaves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_771_46_JewelsAndStones__.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_804_55_UniqueMorseCodeWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_852_49_PeakIndexInAMountainArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_917_51_ReverseOnlyLetters__.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_929_54_UniqueEmailAddresses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_199_45_BinaryTreeRightSideShow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_662_43_MaximumWidthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_my/test/TestForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_121_67_BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_662_43_MaximumWidthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_136_58_SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_680_68_ValidPalindromII__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_905_57_SortArrayByParity__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_933_52_NumberOfRecentCalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_2_66_AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_RV_846_35_HandOfStraights__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_846_35_HandOfStraights.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Medium_662_43_MaximumWidthOfBinaryTree.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,9 +76,9 @@
       <recent name="nick.white" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Easy_804_55_UniqueMorseCodeWords">
-    <configuration name="A_Medium_54_52_SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.A_Medium_54_52_SpiralMatrix" />
+  <component name="RunManager" selected="Application.Easy_680_68_ValidPalindromII__">
+    <configuration name="A_Easy_121_67_BestTimeToBuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.A_Easy_121_67_BestTimeToBuyAndSellStock" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Easy_404_50_SumOfLeftLeaves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.Easy_404_50_SumOfLeftLeaves" />
+    <configuration name="A_Medium_662_43_MaximumWidthOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.A_Medium_662_43_MaximumWidthOfBinaryTree" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Easy_804_55_UniqueMorseCodeWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.Easy_804_55_UniqueMorseCodeWords" />
+    <configuration name="Easy_680_68_ValidPalindromII__" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.Easy_680_68_ValidPalindromII__" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Easy_917_51_ReverseOnlyLetters__" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.Easy_917_51_ReverseOnlyLetters__" />
+    <configuration name="Medium_2_66_AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.Medium_2_66_AddTwoNumbers" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Easy_929_54_UniqueEmailAddresses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.Easy_929_54_UniqueEmailAddresses" />
+    <configuration name="Medium_RV_846_35_HandOfStraights__" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.Medium_RV_846_35_HandOfStraights__" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -170,19 +170,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Easy_404_50_SumOfLeftLeaves" />
-      <item itemvalue="Application.Easy_917_51_ReverseOnlyLetters__" />
-      <item itemvalue="Application.A_Medium_54_52_SpiralMatrix" />
-      <item itemvalue="Application.Easy_929_54_UniqueEmailAddresses" />
-      <item itemvalue="Application.Easy_804_55_UniqueMorseCodeWords" />
+      <item itemvalue="Application.Medium_RV_846_35_HandOfStraights__" />
+      <item itemvalue="Application.A_Medium_662_43_MaximumWidthOfBinaryTree" />
+      <item itemvalue="Application.Medium_2_66_AddTwoNumbers" />
+      <item itemvalue="Application.A_Easy_121_67_BestTimeToBuyAndSellStock" />
+      <item itemvalue="Application.Easy_680_68_ValidPalindromII__" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Easy_804_55_UniqueMorseCodeWords" />
-        <item itemvalue="Application.Easy_929_54_UniqueEmailAddresses" />
-        <item itemvalue="Application.A_Medium_54_52_SpiralMatrix" />
-        <item itemvalue="Application.Easy_917_51_ReverseOnlyLetters__" />
-        <item itemvalue="Application.Easy_404_50_SumOfLeftLeaves" />
+        <item itemvalue="Application.Easy_680_68_ValidPalindromII__" />
+        <item itemvalue="Application.A_Easy_121_67_BestTimeToBuyAndSellStock" />
+        <item itemvalue="Application.Medium_2_66_AddTwoNumbers" />
+        <item itemvalue="Application.A_Medium_662_43_MaximumWidthOfBinaryTree" />
+        <item itemvalue="Application.Medium_RV_846_35_HandOfStraights__" />
       </list>
     </recent_temporary>
   </component>
@@ -249,6 +249,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/nick/white/Easy_917_51_ReverseOnlyLetters__.java</url>
           <line>23</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/A_Easy_121_67_BestTimeToBuyAndSellStock.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
