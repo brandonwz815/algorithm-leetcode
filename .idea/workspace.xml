@@ -5,19 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcab5794-96b5-4f79-b087-993f4eb7a5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/_my/test/TestForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_121_67_BestTimeToBuyAndSellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_662_43_MaximumWidthOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_136_58_SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_680_68_ValidPalindromII__.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_905_57_SortArrayByParity__.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_933_52_NumberOfRecentCalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_2_66_AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_RV_846_35_HandOfStraights__.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_1047_77_RemoveAllAdjacentDuplicatesInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_189_106_RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_482_85_LicenseKeyFormatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_509_113_FibonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_746_114_MinCostClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_806_124_NumberOfLinesToWriteString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_821_104_ShortestDistanceToACharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_832_123_FlippingAnImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_860_112_Lemonade_Change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_953_121_VerifyingAnAlienDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Hard_975_84_OddEvenJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_1004_117_MaxConsecutiveOnesIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_17_92_LetterCombinationOfAPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_19_97_RemoveNthNodeFromEndOfList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_348_98_DesignTicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_3_88_LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_402_72_RemoveKDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_560_93_SubarraySumEqualsK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_74_71_SearchA2DMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_752_116_OpenTheLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_79_73_WordSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_904_86_FruitIntoBaskets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_92_95_ReverseLinkedListII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_DecodeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A__Medium_75_111_SortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_1160_79_FindWordsThatCanBeFormedByCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_1184_96_DistanceBetweenBusStops__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_27_118_RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_363_78_IslandPerimeter__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_412_82_FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_485_81_MaxConsecutiveOnes__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_796_80_RotateString__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_895_107_BuddyStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_925_108_LongPressedName__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_1019_102_NextGreaterNodeInLinkedList__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_503_101_NextGreaterElementII__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_695_75_MaxAreaOfIsland__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_807_90_MaxIncreaseToKeepCitySkyline__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_838_109_PushDominoes__.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_846_35_HandOfStraights.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Medium_662_43_MaximumWidthOfBinaryTree.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +54,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaFXApplication" />
         <option value="Class" />
       </list>
     </option>
@@ -41,6 +69,10 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/nick/white/A_Medium_17_92_LetterCombinationOfAPhoneNumber.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/nick/white/A_Medium_560_93_SubarraySumEqualsK.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -60,9 +92,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$USER_HOME$/git-tutorialspoint/cucumber" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -76,9 +110,9 @@
       <recent name="nick.white" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Easy_680_68_ValidPalindromII__">
-    <configuration name="A_Easy_121_67_BestTimeToBuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.A_Easy_121_67_BestTimeToBuyAndSellStock" />
+  <component name="RunManager" selected="Application.A_Easy_806_124_NumberOfLinesToWriteString">
+    <configuration name="A_Easy_806_124_NumberOfLinesToWriteString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.A_Easy_806_124_NumberOfLinesToWriteString" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A_Medium_662_43_MaximumWidthOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.A_Medium_662_43_MaximumWidthOfBinaryTree" />
+    <configuration name="A_Easy_953_121_VerifyingAnAlienDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.A_Easy_953_121_VerifyingAnAlienDictionary" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +137,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Easy_680_68_ValidPalindromII__" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.Easy_680_68_ValidPalindromII__" />
+    <configuration name="Easy_895_107_BuddyStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.Easy_895_107_BuddyStrings" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +150,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_2_66_AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.Medium_2_66_AddTwoNumbers" />
+    <configuration name="Easy_925_108_LongPressedName__" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.Easy_925_108_LongPressedName__" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +163,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_RV_846_35_HandOfStraights__" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.Medium_RV_846_35_HandOfStraights__" />
+    <configuration name="Medium_838_109_PushDominoes__" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.Medium_838_109_PushDominoes__" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -170,19 +204,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Medium_RV_846_35_HandOfStraights__" />
-      <item itemvalue="Application.A_Medium_662_43_MaximumWidthOfBinaryTree" />
-      <item itemvalue="Application.Medium_2_66_AddTwoNumbers" />
-      <item itemvalue="Application.A_Easy_121_67_BestTimeToBuyAndSellStock" />
-      <item itemvalue="Application.Easy_680_68_ValidPalindromII__" />
+      <item itemvalue="Application.Easy_895_107_BuddyStrings" />
+      <item itemvalue="Application.Easy_925_108_LongPressedName__" />
+      <item itemvalue="Application.Medium_838_109_PushDominoes__" />
+      <item itemvalue="Application.A_Easy_953_121_VerifyingAnAlienDictionary" />
+      <item itemvalue="Application.A_Easy_806_124_NumberOfLinesToWriteString" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Easy_680_68_ValidPalindromII__" />
-        <item itemvalue="Application.A_Easy_121_67_BestTimeToBuyAndSellStock" />
-        <item itemvalue="Application.Medium_2_66_AddTwoNumbers" />
-        <item itemvalue="Application.A_Medium_662_43_MaximumWidthOfBinaryTree" />
-        <item itemvalue="Application.Medium_RV_846_35_HandOfStraights__" />
+        <item itemvalue="Application.A_Easy_806_124_NumberOfLinesToWriteString" />
+        <item itemvalue="Application.A_Easy_953_121_VerifyingAnAlienDictionary" />
+        <item itemvalue="Application.Medium_838_109_PushDominoes__" />
+        <item itemvalue="Application.Easy_925_108_LongPressedName__" />
+        <item itemvalue="Application.Easy_895_107_BuddyStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -254,6 +288,81 @@
           <url>file://$PROJECT_DIR$/src/main/java/nick/white/A_Easy_121_67_BestTimeToBuyAndSellStock.java</url>
           <line>22</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Easy_363_78_IslandPerimeter__.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Easy_363_78_IslandPerimeter__.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Easy_363_78_IslandPerimeter__.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Medium_695_75_MaxAreaOfIsland__.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Medium_695_75_MaxAreaOfIsland__.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Easy_796_80_RotateString__.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Medium_807_90_MaxIncreaseToKeepCitySkyline__.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Medium_1019_102_NextGreaterNodeInLinkedList__.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Medium_1019_102_NextGreaterNodeInLinkedList__.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Medium_1019_102_NextGreaterNodeInLinkedList__.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Medium_1019_102_NextGreaterNodeInLinkedList__.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Easy_895_107_BuddyStrings.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Easy_925_108_LongPressedName__.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Easy_925_108_LongPressedName__.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/A_Easy_953_121_VerifyingAnAlienDictionary.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
