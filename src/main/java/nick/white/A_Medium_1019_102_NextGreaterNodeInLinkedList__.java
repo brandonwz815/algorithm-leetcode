@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Medium_1019_102_NextGreaterNodeInLinkedList__ {
+public class A_Medium_1019_102_NextGreaterNodeInLinkedList__ {
 
     public static void main(String[] args) {
         ListNode head = new ListNode(2);
@@ -53,6 +53,7 @@ public class Medium_1019_102_NextGreaterNodeInLinkedList__ {
         }
 
 //        return result.toArray(new int[0]);
-        return result.stream().mapToInt((Integer::intValue)).toArray();
+//        return result.stream().mapToInt((Integer::intValue)).toArray();
+        return null;
     }
 }

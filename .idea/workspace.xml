@@ -5,46 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcab5794-96b5-4f79-b087-993f4eb7a5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_1047_77_RemoveAllAdjacentDuplicatesInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_189_106_RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_482_85_LicenseKeyFormatting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_509_113_FibonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_746_114_MinCostClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_806_124_NumberOfLinesToWriteString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_821_104_ShortestDistanceToACharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_832_123_FlippingAnImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_860_112_Lemonade_Change.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_953_121_VerifyingAnAlienDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Hard_975_84_OddEvenJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_1004_117_MaxConsecutiveOnesIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_17_92_LetterCombinationOfAPhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_19_97_RemoveNthNodeFromEndOfList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_348_98_DesignTicTacToe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_3_88_LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_402_72_RemoveKDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_560_93_SubarraySumEqualsK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_74_71_SearchA2DMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_752_116_OpenTheLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_79_73_WordSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_904_86_FruitIntoBaskets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_92_95_ReverseLinkedListII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_DecodeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A__Medium_75_111_SortColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_1160_79_FindWordsThatCanBeFormedByCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_1184_96_DistanceBetweenBusStops__.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_27_118_RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_363_78_IslandPerimeter__.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_412_82_FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_485_81_MaxConsecutiveOnes__.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_796_80_RotateString__.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_895_107_BuddyStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_925_108_LongPressedName__.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_1019_102_NextGreaterNodeInLinkedList__.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_503_101_NextGreaterElementII__.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_695_75_MaxAreaOfIsland__.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_807_90_MaxIncreaseToKeepCitySkyline__.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_838_109_PushDominoes__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_my/test/ConvertUpperCasetoLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_my/test/FinalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/glassdoor/capitalone/A_SeparatingStringByCurlyBrackets3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/glassdoor/capitalone/SeparatingStringByCurlyBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/glassdoor/capitalone/SeparatingStringByCurlyBrackets2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/Medium_74_SearchA2DMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hackerrank/Easy_PickingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_409_125_LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_836_126_RectangleOverlap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_985_127_SumOfEvenNumbersAfterQueries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_33_128_SearchInRotatedSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Easy_589_9_NaryTreePreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_589_9_NaryTreePreorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Easy_590_7_NaryTreePostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_590_7_NaryTreePostorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Medium_1019_102_NextGreaterNodeInLinkedList__.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_1019_102_NextGreaterNodeInLinkedList__.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,9 +71,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$USER_HOME$/git-tutorialspoint/cucumber" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/utraque" />
+    <property name="last_opened_file_path" value="$USER_HOME$/git-baeldung/tutorials/core-java-modules/core-java-lang-operators" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -110,13 +86,13 @@
       <recent name="nick.white" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A_Easy_806_124_NumberOfLinesToWriteString">
-    <configuration name="A_Easy_806_124_NumberOfLinesToWriteString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.A_Easy_806_124_NumberOfLinesToWriteString" />
+  <component name="RunManager" selected="Application.Medium_74_SearchA2DMatrix (1)">
+    <configuration name="ConvertUpperCasetoLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_my.test.ConvertUpperCasetoLowerCase" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nick.white.*" />
+          <option name="PATTERN" value="_my.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A_Easy_953_121_VerifyingAnAlienDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.A_Easy_953_121_VerifyingAnAlienDictionary" />
+    <configuration name="Easy_PickingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.Easy_PickingNumbers" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nick.white.*" />
+          <option name="PATTERN" value="hackerrank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Easy_895_107_BuddyStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.Easy_895_107_BuddyStrings" />
+    <configuration name="Medium_74_SearchA2DMatrix (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.Medium_74_SearchA2DMatrix" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nick.white.*" />
+          <option name="PATTERN" value="com.utraque.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Easy_925_108_LongPressedName__" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.Easy_925_108_LongPressedName__" />
+    <configuration name="Medium_74_SearchA2DMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.medium.Medium_74_SearchA2DMatrix" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nick.white.*" />
+          <option name="PATTERN" value="problems.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,8 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_838_109_PushDominoes__" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.Medium_838_109_PushDominoes__" />
+    <configuration name="Medium_841_KeysAndRooms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.Medium_841_KeysAndRooms" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -204,19 +180,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Easy_895_107_BuddyStrings" />
-      <item itemvalue="Application.Easy_925_108_LongPressedName__" />
-      <item itemvalue="Application.Medium_838_109_PushDominoes__" />
-      <item itemvalue="Application.A_Easy_953_121_VerifyingAnAlienDictionary" />
-      <item itemvalue="Application.A_Easy_806_124_NumberOfLinesToWriteString" />
+      <item itemvalue="Application.Easy_PickingNumbers" />
+      <item itemvalue="Application.Medium_841_KeysAndRooms" />
+      <item itemvalue="Application.ConvertUpperCasetoLowerCase" />
+      <item itemvalue="Application.Medium_74_SearchA2DMatrix" />
+      <item itemvalue="Application.Medium_74_SearchA2DMatrix (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A_Easy_806_124_NumberOfLinesToWriteString" />
-        <item itemvalue="Application.A_Easy_953_121_VerifyingAnAlienDictionary" />
-        <item itemvalue="Application.Medium_838_109_PushDominoes__" />
-        <item itemvalue="Application.Easy_925_108_LongPressedName__" />
-        <item itemvalue="Application.Easy_895_107_BuddyStrings" />
+        <item itemvalue="Application.Medium_74_SearchA2DMatrix (1)" />
+        <item itemvalue="Application.Medium_74_SearchA2DMatrix" />
+        <item itemvalue="Application.ConvertUpperCasetoLowerCase" />
+        <item itemvalue="Application.Medium_841_KeysAndRooms" />
+        <item itemvalue="Application.Easy_PickingNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +246,7 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Easy_590_7_NaryTreePostorderTraversal.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/A_Easy_590_7_NaryTreePostorderTraversal.java</url>
           <line>43</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
@@ -325,22 +301,22 @@
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Medium_1019_102_NextGreaterNodeInLinkedList__.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/A_Medium_1019_102_NextGreaterNodeInLinkedList__.java</url>
           <line>48</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Medium_1019_102_NextGreaterNodeInLinkedList__.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/A_Medium_1019_102_NextGreaterNodeInLinkedList__.java</url>
           <line>47</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Medium_1019_102_NextGreaterNodeInLinkedList__.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/A_Medium_1019_102_NextGreaterNodeInLinkedList__.java</url>
           <line>32</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/nick/white/Medium_1019_102_NextGreaterNodeInLinkedList__.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/nick/white/A_Medium_1019_102_NextGreaterNodeInLinkedList__.java</url>
           <line>28</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>

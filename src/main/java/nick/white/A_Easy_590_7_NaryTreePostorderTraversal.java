@@ -2,28 +2,28 @@ package nick.white;
 
 import java.util.*;
 
-public class Easy_590_7_NaryTreePostorderTraversal {
+public class A_Easy_590_7_NaryTreePostorderTraversal {
 
     public static void main(String[] args) {
 
-        Node node5 = new Node(5, Collections.emptyList());
-        Node node6 = new Node(6, Collections.emptyList());
-        List<Node> firstChildChildren = new ArrayList<>();
-        firstChildChildren.add(node5);
-        firstChildChildren.add(node6);
-
-        Node node3 = new Node(3, firstChildChildren);
-        Node node2 = new Node(2, Collections.emptyList());
-        Node node4 = new Node(4, Collections.emptyList());
-        List<Node> rootChildren = new ArrayList<>();
-        rootChildren.add(node3);
-        rootChildren.add(node2);
-        rootChildren.add(node4);
-
-        Node root = new Node(1, rootChildren);
-
-        System.out.printf("Before: %s\n ", root);
-        System.out.printf(" After: %s\n ", postorder(root).toString());
+//        Node node5 = new Node(5, Collections.emptyList());
+//        Node node6 = new Node(6, Collections.emptyList());
+//        List<Node> firstChildChildren = new ArrayList<>();
+//        firstChildChildren.add(node5);
+//        firstChildChildren.add(node6);
+//
+//        Node node3 = new Node(3, firstChildChildren);
+//        Node node2 = new Node(2, Collections.emptyList());
+//        Node node4 = new Node(4, Collections.emptyList());
+//        List<Node> rootChildren = new ArrayList<>();
+//        rootChildren.add(node3);
+//        rootChildren.add(node2);
+//        rootChildren.add(node4);
+//
+//        Node root = new Node(1, rootChildren);
+//
+//        System.out.printf("Before: %s\n ", root);
+//        System.out.printf(" After: %s\n ", postorder(root).toString());
 
     }
 
