@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcab5794-96b5-4f79-b087-993f4eb7a5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/bitmanipulation/Easy_338_CountingBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/bitmanipulation/Easy_67_AddBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/bitmanipulation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/bitmanipulation/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_5_LongestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_55_JumpGame_DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_55_JumpGame_bruteforce.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/A_Medium_ShortestBridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/twodemensionalmatrix/A_Medium_ShortestBridge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/Easy_637_AverageOfLevelsInBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/twodemensionalmatrix/Easy_637_AverageOfLevelsInBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/Medium_200_NumberOfIslands_BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/twodemensionalmatrix/Medium_200_NumberOfIslands_BFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/Medium_200_NumberOfIslands_DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/twodemensionalmatrix/Medium_200_NumberOfIslands_DFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/Medium_74_SearchA2DMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/twodemensionalmatrix/Medium_74_SearchA2DMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_121_67_BestTimeToBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_121_BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_5_LongestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_5_LongestPalindromicSubstring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaFXApplication" />
-        <option value="Class" />
         <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -91,22 +82,9 @@
       <recent name="nick.white" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Medium_5_LongestPalindromicSubstring">
     <configuration name="Easy_338_CountingBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.bitmanipulation.Easy_338_CountingBits" />
-      <module name="algorithm-leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.utraque.leetcode.bitmanipulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Easy_67_AddBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.bitmanipulation.Easy_67_AddBinary" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -131,12 +109,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_200_NumberOfIslands_DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.Medium_200_NumberOfIslands_DFS" />
+    <configuration name="Medium_55_JumpGame_DP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_55_JumpGame_DP" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.utraque.leetcode.*" />
+          <option name="PATTERN" value="com.utraque.leetcode.tag.dynamicprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Medium_55_JumpGame_bruteforce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_55_JumpGame_bruteforce" />
+      <module name="algorithm-leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utraque.leetcode.tag.dynamicprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,19 +176,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Medium_200_NumberOfIslands_DFS" />
-      <item itemvalue="Application.Easy_67_AddBinary" />
       <item itemvalue="Application.Easy_338_CountingBits" />
       <item itemvalue="Application.Medium_5_LongestPalindromicSubstring" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Medium_55_JumpGame_DP" />
+      <item itemvalue="Application.Medium_55_JumpGame_bruteforce" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Medium_5_LongestPalindromicSubstring" />
+        <item itemvalue="Application.Medium_55_JumpGame_DP" />
+        <item itemvalue="Application.Medium_55_JumpGame_bruteforce" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Easy_338_CountingBits" />
-        <item itemvalue="Application.Easy_67_AddBinary" />
-        <item itemvalue="Application.Medium_200_NumberOfIslands_DFS" />
       </list>
     </recent_temporary>
   </component>
@@ -359,6 +350,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/bitmanipulation/Easy_338_CountingBits.java</url>
           <line>17</line>
           <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_55_JumpGame_DP.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_5_LongestPalindromicSubstring.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
