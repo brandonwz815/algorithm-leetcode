@@ -5,22 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcab5794-96b5-4f79-b087-993f4eb7a5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/_my/test/ConvertUpperCasetoLowerCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_my/test/FinalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/glassdoor/capitalone/A_SeparatingStringByCurlyBrackets3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/glassdoor/capitalone/SeparatingStringByCurlyBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/glassdoor/capitalone/SeparatingStringByCurlyBrackets2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/Medium_74_SearchA2DMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hackerrank/Easy_PickingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_409_125_LongestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_836_126_RectangleOverlap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_985_127_SumOfEvenNumbersAfterQueries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_33_128_SearchInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/A_Medium_ShortestBridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/Easy_637_AverageOfLevelsInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/Medium_200_NumberOfIslands_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/Medium_200_NumberOfIslands_DFS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Easy_589_9_NaryTreePreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_589_9_NaryTreePreorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Easy_590_7_NaryTreePostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_590_7_NaryTreePostorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Medium_1019_102_NextGreaterNodeInLinkedList__.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_1019_102_NextGreaterNodeInLinkedList__.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OUTPUT_PATH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/Medium_74_SearchA2DMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/Medium_74_SearchA2DMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_114_44_FlattenBinaryTreeToLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_114_44_FlattenBinaryTreeToLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Easy_965_40_UniValuedBinaryTree__.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_965_40_UniValuedBinaryTree__.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +66,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/utraque" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/nick/white" />
     <property name="last_opened_file_path" value="$USER_HOME$/git-baeldung/tutorials/core-java-modules/core-java-lang-operators" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -82,17 +77,24 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\tiger\git\algorithm-leetcode\src\main\java" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tiger\git\algorithm-leetcode\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="nick.white" />
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="nick.white" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Medium_74_SearchA2DMatrix (1)">
-    <configuration name="ConvertUpperCasetoLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_my.test.ConvertUpperCasetoLowerCase" />
+  <component name="RunManager" selected="Application.Medium_200_NumberOfIslands_DFS">
+    <configuration name="A_Medium_200_NumberOfIslands_BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.A_Medium_200_NumberOfIslands_BFS" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_my.test.*" />
+          <option name="PATTERN" value="com.utraque.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Easy_PickingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.Easy_PickingNumbers" />
+    <configuration name="Easy_637_AverageOfLevelsInBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.Easy_637_AverageOfLevelsInBinaryTree" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerrank.*" />
+          <option name="PATTERN" value="com.utraque.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_74_SearchA2DMatrix (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.Medium_74_SearchA2DMatrix" />
+    <configuration name="Medium_200_NumberOfIslands_DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.Medium_200_NumberOfIslands_DFS" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -139,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_841_KeysAndRooms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nick.white.Medium_841_KeysAndRooms" />
+    <configuration name="Medium_74_SearchA2DMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.Medium_74_SearchA2DMatrix" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nick.white.*" />
+          <option name="PATTERN" value="com.utraque.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,19 +182,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Easy_PickingNumbers" />
-      <item itemvalue="Application.Medium_841_KeysAndRooms" />
-      <item itemvalue="Application.ConvertUpperCasetoLowerCase" />
       <item itemvalue="Application.Medium_74_SearchA2DMatrix" />
       <item itemvalue="Application.Medium_74_SearchA2DMatrix (1)" />
+      <item itemvalue="Application.Easy_637_AverageOfLevelsInBinaryTree" />
+      <item itemvalue="Application.A_Medium_200_NumberOfIslands_BFS" />
+      <item itemvalue="Application.Medium_200_NumberOfIslands_DFS" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Medium_200_NumberOfIslands_DFS" />
+        <item itemvalue="Application.A_Medium_200_NumberOfIslands_BFS" />
+        <item itemvalue="Application.Easy_637_AverageOfLevelsInBinaryTree" />
         <item itemvalue="Application.Medium_74_SearchA2DMatrix (1)" />
         <item itemvalue="Application.Medium_74_SearchA2DMatrix" />
-        <item itemvalue="Application.ConvertUpperCasetoLowerCase" />
-        <item itemvalue="Application.Medium_841_KeysAndRooms" />
-        <item itemvalue="Application.Easy_PickingNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -339,6 +341,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/nick/white/A_Easy_953_121_VerifyingAnAlienDictionary.java</url>
           <line>24</line>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/utraque/leetcode/Medium_200_NumberOfIslands_BFS.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

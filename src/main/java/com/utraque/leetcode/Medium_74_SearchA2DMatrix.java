@@ -1,14 +1,18 @@
 package com.utraque.leetcode;
 
-import java.util.Arrays;
-
 public class Medium_74_SearchA2DMatrix {
 
     public static void main(String[] args) {
-        int[][]  matrix = {{1,3,5,7},{10,11,16,20},{23,30,34,60}};
+        int[][]  matrix = {
+                {1,3,5,7},
+                {10,11,16,20},
+                {23,30,34,60}};
         System.out.printf(" After: %b\n", run(matrix, 3));
 
-        int[][] matrix2 = {{1, 3, 5, 7}, {10, 11, 16, 20}, {23, 30, 34, 60}};
+        int[][] matrix2 = {
+                {1, 3, 5, 7},
+                {10, 11, 16, 20},
+                {23, 30, 34, 60}};
         System.out.printf(" After: %b", run(matrix2, 13));
     }
 
@@ -61,7 +65,10 @@ public class Medium_74_SearchA2DMatrix {
 
 /**
  * Note:
- * Must check conditions:
- *   1) start < mid - 1
- *   2) mid + 1 < end
+ * Must check conditions!
+ *      1) start < mid - 1
+ *      2) mid + 1 < end
+ *
+ * Or:
+ *      while (low <= high)
  */

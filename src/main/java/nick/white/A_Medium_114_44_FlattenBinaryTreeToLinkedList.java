@@ -1,7 +1,5 @@
 package nick.white;
 
-import sun.reflect.generics.tree.Tree;
-
 import java.util.ArrayDeque;
 import java.util.Deque;
 

@@ -1,7 +1,6 @@
 package nick.white;
 
 import java.util.ArrayDeque;
-import java.util.Deque;
 import java.util.Queue;
 
 public class Easy_965_40_UniValuedBinaryTree__ {
