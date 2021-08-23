@@ -1,4 +1,4 @@
-package com.utraque.leetcode;
+package com.utraque.leetcode.twodemensionalmatrix;
 
 public class Medium_74_SearchA2DMatrix {
 
@@ -65,10 +65,11 @@ public class Medium_74_SearchA2DMatrix {
 
 /**
  * Note:
- * Must check conditions!
+ *
+ * [Recursion] Must check conditions!
  *      1) start < mid - 1
  *      2) mid + 1 < end
  *
- * Or:
+ * [Iteration]
  *      while (low <= high)
  */

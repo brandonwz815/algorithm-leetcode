@@ -1,4 +1,4 @@
-package com.utraque.leetcode;
+package com.utraque.leetcode.twodemensionalmatrix;
 
 public class Medium_200_NumberOfIslands_DFS {
 
@@ -40,3 +40,7 @@ public class Medium_200_NumberOfIslands_DFS {
     }
 
 }
+
+/**
+ *   Use the stack of method dfs() instead of an explicit stack
+ */

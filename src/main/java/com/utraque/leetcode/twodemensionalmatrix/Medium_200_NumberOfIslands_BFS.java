@@ -1,4 +1,4 @@
-package com.utraque.leetcode;
+package com.utraque.leetcode.twodemensionalmatrix;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
@@ -55,3 +55,7 @@ public class Medium_200_NumberOfIslands_BFS {
         return islands;
     }
 }
+
+/**
+ *  To do bfs(), put *** nodes *** in a FIFO queue
+ */

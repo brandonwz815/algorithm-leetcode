@@ -1,6 +1,6 @@
 package nick.white;
 
-public class A_Easy_121_67_BestTimeToBuyAndSellStock {
+public class A_Easy_121_BestTimeToBuyAndSellStock {
 
     public static void main(String[] args) {
         int[] prices = {7, 1, 5, 3, 6, 4};

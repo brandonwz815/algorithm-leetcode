@@ -1,4 +1,4 @@
-package com.utraque.leetcode;
+package com.utraque.leetcode.twodemensionalmatrix;
 
 import nick.white.TreeNode;
 
@@ -55,3 +55,8 @@ public class Easy_637_AverageOfLevelsInBinaryTree {
         return result;
     }
 }
+
+/**
+ *  Make deque.poll() happen inside a for loop.  The length of the loop is the
+ *  number of nodes at a particular level.
+ */

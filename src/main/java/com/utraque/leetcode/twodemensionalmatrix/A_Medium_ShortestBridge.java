@@ -1,4 +1,4 @@
-package com.utraque.leetcode;
+package com.utraque.leetcode.twodemensionalmatrix;
 
 public class A_Medium_ShortestBridge {
 
