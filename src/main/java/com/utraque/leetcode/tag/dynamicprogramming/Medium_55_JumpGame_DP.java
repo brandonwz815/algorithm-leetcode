@@ -12,6 +12,8 @@ public class Medium_55_JumpGame_DP {
         System.out.printf(" After: %s", canJump(input, memo));
         System.out.println();
 
+        //-------------------------------------
+
         Map<Integer, Boolean> memo2 = new HashMap<>();
         int[] input2 = {3, 2, 1, 0, 4};
         System.out.printf(" After: %s", canJump(input2, memo2));

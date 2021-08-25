@@ -6,7 +6,7 @@ package com.utraque.leetcode.tag.dynamicprogramming;
  * based on constructing a tree
  *
  */
-public class Medium_5_LongestPalindromicSubstring_bruteforce {
+public class A_Medium_5_LongestPalindromicSubstring_bruteforce {
 
     public static void main(String[] args) {
 //        String s = "babad";

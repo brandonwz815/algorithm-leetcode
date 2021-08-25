@@ -1,6 +1,6 @@
 package com.utraque.leetcode.tag.dynamicprogramming;
 
-public class Medium_55_JumpGame_bruteforce {
+public class Medium_55_JumpGame_bf {
 
     public static void main(String[] args) {
         int[] input = {2, 3, 1, 1, 4};
