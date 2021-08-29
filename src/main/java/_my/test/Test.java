@@ -15,9 +15,11 @@ public class Test {
 //
 //        }
 
-        int[] memo = new int[10];
-        for (int i = 0; i < 10; i++) {
-            System.out.println(memo[i]);
-        }
+//        int[] memo = new int[10];
+//        for (int i = 0; i < 10; i++) {
+//            System.out.println(memo[i]);
+//        }
+
+        System.out.println("abcd".substring(4).length());
     }
 }

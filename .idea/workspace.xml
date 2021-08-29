@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcab5794-96b5-4f79-b087-993f4eb7a5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/A_Medium_131_PalindromePartitioning_bf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_1696_JumpGameVI_bf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_22_GenerateParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_5_LongestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_62_Unique_Paths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_63_UniquePathsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_64_PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/A_Medium_120_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/A_Medium_97_InterleavingString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_131_PalindromePartitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_91_DecodeWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_91_DecodeWays_bad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_55_JumpGame_DP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_55_JumpGame_DP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_55_JumpGame_bruteforce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_55_JumpGame_bf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_5_LongestPalindromicSubstring_bruteforce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/A_Medium_5_LongestPalindromicSubstring_bruteforce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_my/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_my/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_1696_JumpGameVI_bf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_1696_JumpGameVI_bf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_45_JumpGameII_bf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_45_JumpGameII_bf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,9 +87,9 @@
       <recent name="nick.white" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Medium_63_UniquePathsII">
-    <configuration name="A_Medium_5_LongestPalindromicSubstring_bruteforce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.A_Medium_5_LongestPalindromicSubstring_bruteforce" />
+  <component name="RunManager" selected="Application.Medium_131_PalindromePartitioning">
+    <configuration name="A_Medium_120_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.A_Medium_120_Triangle" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_22_GenerateParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_22_GenerateParentheses" />
+    <configuration name="A_Medium_131_PalindromePartitioning_bf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.A_Medium_131_PalindromePartitioning_bf" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_62_Unique_Paths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_62_Unique_Paths" />
+    <configuration name="Medium_131_PalindromePartitioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_131_PalindromePartitioning" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_63_UniquePathsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_63_UniquePathsII" />
+    <configuration name="Medium_91_DecodeWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_91_DecodeWays" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -142,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_64_PathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_64_PathSum" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_a.Test" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.utraque.leetcode.tag.dynamicprogramming.*" />
+          <option name="PATTERN" value="_a.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,19 +181,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.A_Medium_5_LongestPalindromicSubstring_bruteforce" />
-      <item itemvalue="Application.Medium_22_GenerateParentheses" />
-      <item itemvalue="Application.Medium_64_PathSum" />
-      <item itemvalue="Application.Medium_62_Unique_Paths" />
-      <item itemvalue="Application.Medium_63_UniquePathsII" />
+      <item itemvalue="Application.Medium_91_DecodeWays" />
+      <item itemvalue="Application.A_Medium_120_Triangle" />
+      <item itemvalue="Application.A_Medium_131_PalindromePartitioning_bf" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Medium_131_PalindromePartitioning" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Medium_63_UniquePathsII" />
-        <item itemvalue="Application.Medium_62_Unique_Paths" />
-        <item itemvalue="Application.Medium_64_PathSum" />
-        <item itemvalue="Application.Medium_22_GenerateParentheses" />
-        <item itemvalue="Application.A_Medium_5_LongestPalindromicSubstring_bruteforce" />
+        <item itemvalue="Application.Medium_131_PalindromePartitioning" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.A_Medium_131_PalindromePartitioning_bf" />
+        <item itemvalue="Application.A_Medium_120_Triangle" />
+        <item itemvalue="Application.Medium_91_DecodeWays" />
       </list>
     </recent_temporary>
   </component>
@@ -393,6 +391,45 @@
           <line>17</line>
           <option name="timeStamp" value="69" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_91_DecodeWays.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_91_DecodeWays.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/A_Medium_120_Triangle.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/A_Medium_120_Triangle.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_131_PalindromePartitioning.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_131_PalindromePartitioning.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_131_PalindromePartitioning.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="77" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>

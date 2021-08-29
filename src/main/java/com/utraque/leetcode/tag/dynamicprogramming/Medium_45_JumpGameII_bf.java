@@ -52,6 +52,8 @@ public class Medium_45_JumpGameII_bf {
 
 /**
  *
+ * [TIPS]
+ *
  * Note:
  * List<Integer> minJumps = new ArrayList<>(nums.length);
  * // minJumps.size() returns 0 !!!!!!!!!!!!!!!!!

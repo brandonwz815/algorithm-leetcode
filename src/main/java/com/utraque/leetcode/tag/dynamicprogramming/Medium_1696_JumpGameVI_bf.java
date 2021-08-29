@@ -38,6 +38,8 @@ public class Medium_1696_JumpGameVI_bf {
 
 /**
  *
+ * [TIPS]
+ *
  * Be VERY CAREFUL with the conditions...
  * I used i < (curIndex + k) and the result was wrong
  *
