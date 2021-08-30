@@ -20,6 +20,12 @@ public class Test {
 //            System.out.println(memo[i]);
 //        }
 
-        System.out.println("abcd".substring(4).length());
+//        System.out.println("abcd".substring(4).length());
+
+        System.out.println(1%2);
+
+
+
     }
+
 }

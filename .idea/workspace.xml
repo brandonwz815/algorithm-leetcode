@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcab5794-96b5-4f79-b087-993f4eb7a5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Hard_132_PalindromicPartitioningII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/A_Medium_396_RotateFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_198_HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_213_HouseRobberII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_397_IntegerReplacement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_my/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_my/test/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,33 +84,7 @@
       <recent name="nick.white" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Hard_132_PalindromicPartitioningII">
-    <configuration name="A_Medium_120_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.A_Medium_120_Triangle" />
-      <module name="algorithm-leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.utraque.leetcode.tag.dynamicprogramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="A_Medium_131_PalindromePartitioning_bf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.A_Medium_131_PalindromePartitioning_bf" />
-      <module name="algorithm-leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.utraque.leetcode.tag.dynamicprogramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Medium_213_HouseRobberII">
     <configuration name="Hard_132_PalindromicPartitioningII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Hard_132_PalindromicPartitioningII" />
       <module name="algorithm-leetcode" />
@@ -119,8 +98,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_131_PalindromePartitioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_131_PalindromePartitioning" />
+    <configuration name="Medium_198_HouseRobber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_198_HouseRobber" />
+      <module name="algorithm-leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utraque.leetcode.tag.dynamicprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Medium_213_HouseRobberII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_213_HouseRobberII" />
+      <module name="algorithm-leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utraque.leetcode.tag.dynamicprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Medium_397_IntegerReplacement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_397_IntegerReplacement" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -173,19 +178,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.A_Medium_120_Triangle" />
-      <item itemvalue="Application.A_Medium_131_PalindromePartitioning_bf" />
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Medium_131_PalindromePartitioning" />
       <item itemvalue="Application.Hard_132_PalindromicPartitioningII" />
+      <item itemvalue="Application.Medium_397_IntegerReplacement" />
+      <item itemvalue="Application.Medium_198_HouseRobber" />
+      <item itemvalue="Application.Medium_213_HouseRobberII" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hard_132_PalindromicPartitioningII" />
-        <item itemvalue="Application.Medium_131_PalindromePartitioning" />
+        <item itemvalue="Application.Medium_213_HouseRobberII" />
+        <item itemvalue="Application.Medium_198_HouseRobber" />
+        <item itemvalue="Application.Medium_397_IntegerReplacement" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.A_Medium_131_PalindromePartitioning_bf" />
-        <item itemvalue="Application.A_Medium_120_Triangle" />
+        <item itemvalue="Application.Hard_132_PalindromicPartitioningII" />
       </list>
     </recent_temporary>
   </component>
@@ -417,6 +422,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_131_PalindromePartitioning.java</url>
           <line>57</line>
           <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_198_HouseRobber.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="84" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
