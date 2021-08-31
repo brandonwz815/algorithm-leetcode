@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcab5794-96b5-4f79-b087-993f4eb7a5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_368_LargestDivisibleSubset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_542_01Matrix_bad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_542_01Matrix_copied.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/AlgoUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +65,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -80,33 +82,7 @@
       <recent name="nick.white" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Medium_368_LargestDivisibleSubset">
-    <configuration name="Medium_198_HouseRobber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_198_HouseRobber" />
-      <module name="algorithm-leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.utraque.leetcode.tag.dynamicprogramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Medium_213_HouseRobberII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_213_HouseRobberII" />
-      <module name="algorithm-leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.utraque.leetcode.tag.dynamicprogramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Medium_542_01Matrix_copied">
     <configuration name="Medium_337_HouseRobberIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_337_HouseRobberIII" />
       <module name="algorithm-leetcode" />
@@ -133,8 +109,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_397_IntegerReplacement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_397_IntegerReplacement" />
+    <configuration name="Medium_416_PartitionEqualSubsetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_416_PartitionEqualSubsetSum" />
+      <module name="algorithm-leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utraque.leetcode.tag.dynamicprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Medium_542_01Matrix_bad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_542_01Matrix_bad" />
+      <module name="algorithm-leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utraque.leetcode.tag.dynamicprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Medium_542_01Matrix_copied" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_542_01Matrix_copied" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
@@ -174,19 +176,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Medium_397_IntegerReplacement" />
-      <item itemvalue="Application.Medium_198_HouseRobber" />
-      <item itemvalue="Application.Medium_213_HouseRobberII" />
       <item itemvalue="Application.Medium_337_HouseRobberIII" />
       <item itemvalue="Application.Medium_368_LargestDivisibleSubset" />
+      <item itemvalue="Application.Medium_416_PartitionEqualSubsetSum" />
+      <item itemvalue="Application.Medium_542_01Matrix_bad" />
+      <item itemvalue="Application.Medium_542_01Matrix_copied" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Medium_542_01Matrix_copied" />
+        <item itemvalue="Application.Medium_542_01Matrix_bad" />
+        <item itemvalue="Application.Medium_416_PartitionEqualSubsetSum" />
         <item itemvalue="Application.Medium_368_LargestDivisibleSubset" />
         <item itemvalue="Application.Medium_337_HouseRobberIII" />
-        <item itemvalue="Application.Medium_213_HouseRobberII" />
-        <item itemvalue="Application.Medium_198_HouseRobber" />
-        <item itemvalue="Application.Medium_397_IntegerReplacement" />
       </list>
     </recent_temporary>
   </component>
@@ -424,6 +426,21 @@
           <line>18</line>
           <option name="timeStamp" value="84" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_542_01Matrix_bad.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_542_01Matrix_bad.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_542_01Matrix_copied.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
           <option name="timeStamp" value="77" />
@@ -435,5 +452,9 @@
         <watch expression="s" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
