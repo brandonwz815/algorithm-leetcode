@@ -1,6 +1,6 @@
 package com.utraque.leetcode.twodemensionalmatrix;
 
-import nick.white.TreeNode;
+import util.TreeNode;
 
 import java.math.BigDecimal;
 import java.util.ArrayDeque;

@@ -5,10 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcab5794-96b5-4f79-b087-993f4eb7a5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_542_01Matrix_bad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_542_01Matrix_copied.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/AlgoUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utraque/codesignal/CountOnSubarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_337_HouseRobberIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_337_HouseRobberIII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_542_01Matrix_copied.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/tag/dynamicprogramming/Medium_542_01Matrix_copied.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/twodemensionalmatrix/Easy_637_AverageOfLevelsInBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utraque/leetcode/twodemensionalmatrix/Easy_637_AverageOfLevelsInBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/A1_Medium_34_814_BinaryTreePruning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/A1_Medium_34_814_BinaryTreePruning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_589_9_NaryTreePreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_589_9_NaryTreePreorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_590_7_NaryTreePostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Easy_590_7_NaryTreePostorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_114_44_FlattenBinaryTreeToLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_114_44_FlattenBinaryTreeToLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_662_43_MaximumWidthOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_662_43_MaximumWidthOfBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_979_41_DistributeCoinsInBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/A_Medium_979_41_DistributeCoinsInBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/B_Easy_700_48_SearchInABinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/B_Easy_700_48_SearchInABinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Easy_101_SymmetricTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_101_SymmetricTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Easy_104_DepthOfTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_104_DepthOfTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Easy_226_InvertBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_226_InvertBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Easy_404_50_SumOfLeftLeaves.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_404_50_SumOfLeftLeaves.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Easy_965_40_UniValuedBinaryTree__.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/Easy_965_40_UniValuedBinaryTree__.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Medium_199_45_BinaryTreeRightSideShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_199_45_BinaryTreeRightSideShow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Medium_513_37_FindBottomLeftTreeValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_513_37_FindBottomLeftTreeValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Medium_515_FindLargestValueInEachTreeRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_515_FindLargestValueInEachTreeRow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Medium_938_39_RangeSumOfBST__.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_938_39_RangeSumOfBST__.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Medium_94_8_BinaryTreeInorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_94_8_BinaryTreeInorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Medium_958_42_CheckCompletenessOfABinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/Medium_958_42_CheckCompletenessOfABinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nick/white/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nick/white/Utils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +82,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/utraque/leetcode" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/utraque" />
     <property name="last_opened_file_path" value="$USER_HOME$/git-baeldung/tutorials/core-java-modules/core-java-lang-operators" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -75,6 +97,7 @@
       <recent name="C:\Users\tiger\git\algorithm-leetcode\src\main\java" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="util" />
       <recent name="nick.white" />
       <recent name="" />
     </key>
@@ -83,25 +106,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Medium_542_01Matrix_copied">
-    <configuration name="Medium_337_HouseRobberIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_337_HouseRobberIII" />
+    <configuration name="Easy_965_40_UniValuedBinaryTree__" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.Easy_965_40_UniValuedBinaryTree__" />
       <module name="algorithm-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.utraque.leetcode.tag.dynamicprogramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Medium_368_LargestDivisibleSubset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.utraque.leetcode.tag.dynamicprogramming.Medium_368_LargestDivisibleSubset" />
-      <module name="algorithm-leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.utraque.leetcode.tag.dynamicprogramming.*" />
+          <option name="PATTERN" value="util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,6 +158,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Medium_94_8_BinaryTreeInorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nick.white.Medium_94_8_BinaryTreeInorderTraversal" />
+      <module name="algorithm-leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JarApplication">
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2" />
@@ -176,19 +199,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Medium_337_HouseRobberIII" />
-      <item itemvalue="Application.Medium_368_LargestDivisibleSubset" />
       <item itemvalue="Application.Medium_416_PartitionEqualSubsetSum" />
       <item itemvalue="Application.Medium_542_01Matrix_bad" />
       <item itemvalue="Application.Medium_542_01Matrix_copied" />
+      <item itemvalue="Application.Easy_965_40_UniValuedBinaryTree__" />
+      <item itemvalue="Application.Medium_94_8_BinaryTreeInorderTraversal" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Medium_542_01Matrix_copied" />
+        <item itemvalue="Application.Medium_94_8_BinaryTreeInorderTraversal" />
+        <item itemvalue="Application.Easy_965_40_UniValuedBinaryTree__" />
         <item itemvalue="Application.Medium_542_01Matrix_bad" />
         <item itemvalue="Application.Medium_416_PartitionEqualSubsetSum" />
-        <item itemvalue="Application.Medium_368_LargestDivisibleSubset" />
-        <item itemvalue="Application.Medium_337_HouseRobberIII" />
       </list>
     </recent_temporary>
   </component>
@@ -243,12 +266,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/nick/white/A_Easy_590_7_NaryTreePostorderTraversal.java</url>
-          <line>43</line>
+          <line>45</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/nick/white/Medium_94_8_BinaryTreeInorderTraversal.java</url>
-          <line>39</line>
+          <line>41</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

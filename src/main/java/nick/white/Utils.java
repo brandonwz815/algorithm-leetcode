@@ -1,5 +1,7 @@
 package nick.white;
 
+import util.TreeNode;
+
 public class Utils {
 
     public static TreeNode newTree() {

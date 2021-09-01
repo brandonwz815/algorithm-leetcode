@@ -36,22 +36,23 @@ public class Medium_542_01Matrix_copied {
         int[][] dirs = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
 
         while (!queue.isEmpty()) {
-            int[] cell = queue.poll();
-            for (int[] d : dirs) {
-                int row = cell[0] + d[0]; // row
-                int col = cell[1] + d[1]; // col
+            int[] currentCoordinates = queue.poll();
+            for (int[] relCoord : dirs) {
+                int row = currentCoordinates[0] + relCoord[0]; // row
+                int col = currentCoordinates[1] + relCoord[1]; // col
                 if (
                         row < 0 ||
                         row >= rows ||
                         col < 0 ||
                         col >= cols ||
-                        matrix[row][col] <= matrix[cell[0]][cell[1]] + 1
+                        matrix[row][col] <= matrix[currentCoordinates[0]][currentCoordinates[1]] + 1
                 ) continue;
                 queue.add(new int[]{row, col});
-                matrix[row][col] = matrix[cell[0]][cell[1]] + 1;
+                matrix[row][col] = matrix[currentCoordinates[0]][currentCoordinates[1]] + 1;
             }
         }
 
         return matrix;
     }
+
 }

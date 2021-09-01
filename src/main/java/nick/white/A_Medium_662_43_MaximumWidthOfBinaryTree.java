@@ -1,5 +1,7 @@
 package nick.white;
 
+import util.TreeNode;
+
 import java.util.*;
 
 public class A_Medium_662_43_MaximumWidthOfBinaryTree {

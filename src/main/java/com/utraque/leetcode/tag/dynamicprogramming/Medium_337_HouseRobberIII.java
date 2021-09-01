@@ -1,6 +1,6 @@
 package com.utraque.leetcode.tag.dynamicprogramming;
 
-import nick.white.TreeNode;
+import util.TreeNode;
 
 public class Medium_337_HouseRobberIII {
 

@@ -1,5 +1,7 @@
 package nick.white;
 
+import util.Node;
+
 import java.util.*;
 
 public class A_Easy_590_7_NaryTreePostorderTraversal {
